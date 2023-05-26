@@ -1,4 +1,4 @@
-# PASSGENERATEPR
+# PASSGENERATOR
 #!/bin/bash
 
 # Password Generator
